@@ -6,10 +6,14 @@ GameState = state.state()
 class render():
 	def __init__(self):
 		''' initialize state '''
-		return 
+		return
+	
+	def UpdateRender():
+		StateInfo.Run()
+		DrawState.Run()
 
 	def Run(self):
-		UpdateRender()
+		self.UpdateRender()
 
 	def DisplayInitialState(self):
 		''' run this outside of game loop 
@@ -17,6 +21,3 @@ class render():
 		'''
 		return 
 
-	def UpdateRender():
-		StateInfo.Run()
-		DrawState.Run()
