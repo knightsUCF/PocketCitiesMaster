@@ -21,6 +21,7 @@ class state():
 		self.CityName = CityName
 		self.PlayerCharacter = PlayerCharacter
 		self.PlayerCharacters = PlayerCharacters
+		self.Level = Level
 		self.StartingCapital = StartingCapital
 		self.Capital = Capital
 		self.Score = Score
@@ -31,7 +32,24 @@ class state():
 		self.Map = Map
 		self.TileInventory = TileInventory
 		
+		self.InitializeState()
+		
 		return
+	
+	def InitializeState(self):
+		self.PlayerName = "Bob"
+		self.CityName = "San Francisco"
+		self.PlayerCharacter = "Entrepreneur"
+		self.PlayerCharacters = { 1 : Entrepreneur, 2 : Cook }
+		self.Level = 1
+		self.StartingCapital = 100000
+		self.Capital = self.StartingCapital
+		self.Score = 0
+		self.Mana = 0
+		self.Points = 0
+		self.Health = 100
+		''' self.map '''
+		''' self.TileInventory '''
 	
 	def UpdateState(self):
 		return
