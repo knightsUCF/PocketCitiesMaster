@@ -1,7 +1,11 @@
 ''' render.py '''
 
 import state
-GameState = state.state()
+GameStateInformation = state.state()
+
+import draw
+DrawTheNewRender = draw.draw()
+
 
 class render():
 	def __init__(self):
@@ -9,8 +13,8 @@ class render():
 		return
 	
 	def UpdateRender():
-		StateInfo.Run()
-		DrawState.Run()
+		GameStateInformation.Run()
+		DrawTheNewRender.Run()
 
 	def Run(self):
 		self.UpdateRender()
