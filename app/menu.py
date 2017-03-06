@@ -15,6 +15,8 @@ class menu():
         
         return 
     
+    
+    
     def OnStartingCharacterSelection(self):
         return
         
@@ -29,6 +31,9 @@ class menu():
     
     def OnSaveGame(self):
         return
+    
+    def OnBuild(self):
+        return 
     
     def OnExit(self):
         return 
