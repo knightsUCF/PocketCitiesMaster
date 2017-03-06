@@ -1,3 +1,4 @@
+# chat client / service
 class chat():
     def __init__(self):
         return
