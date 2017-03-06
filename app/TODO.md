@@ -38,6 +38,8 @@ New game begins with choosing your character:
 
 <h4> SELECT PLAYER STATS (rpg style) </h4>
 
+(All while psytrance playlist is creating build ups and drops)
+
 
 <h1> TODO </h1>
 
