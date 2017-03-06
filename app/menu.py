@@ -15,6 +15,9 @@ class menu():
         
         return 
         
+    def OnMenuSelection(self):
+        return 
+    
     def Update(self):
         return 
         
