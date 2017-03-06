@@ -24,7 +24,7 @@ E) Main Menu choices:
     
     - Settings
     
-    - Quit
+    - Exit
 
 
 
