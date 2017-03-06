@@ -5,6 +5,12 @@ class grid():
         self.HorizontalNumberOfLines = HorizontalNumberOfLines
         return
     
+    def DrawVerticalLine(self):
+        return 
+    
+    def DrawHorizontalLine(self):
+        return 
+    
     def DrawGrid(self):
         return
         
