@@ -38,6 +38,10 @@ class grid():
         self.DrawGrid(width, height)
         return 
     
+    def InitializeGrid(self):
+        # TODO work on this 
+        return 
+    
     
     def Run(self, width, height):
         self.CreateAGrid(width, height)
