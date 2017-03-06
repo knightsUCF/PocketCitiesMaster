@@ -1,4 +1,4 @@
-class weapons():
+class weapon():
     def __init__(self, Type, ID, Cost, DamageXP):
         ''' initialize weapon information '''
         self.Type = Type
