@@ -1,5 +1,8 @@
 ''' input.py '''
 
+import button
+Button = button.button()
+
 class input():
 
 	def GetInput(self):
