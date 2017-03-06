@@ -1,6 +1,6 @@
 class character():
-    def __init__(self, ID, Name, Type, Perk, Penalty):
-        self.ID = ID
+    def __init__(self, CharacterID, Name, Type, Perk, Penalty):
+        self.CharacterID = CharacterID
         self.Name = Name
         self.Type = Type
         self.Perk = Perk
@@ -8,10 +8,10 @@ class character():
         ''' initialize character state data '''
         return 
         
-    def Perk(self, ID):
+    def Perk(self, self.CharacterID):
         return 
     
-    def Penalty(self, ID):
+    def Penalty(self, self.CharacterID):
         return 
     
     def Update(self):
