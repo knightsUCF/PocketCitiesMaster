@@ -30,7 +30,9 @@ E) Main Menu choices:
 
 <h3> NEW GAME </h3>
 
-New game begins with choosing your character:
+New game begins with choosing your character: 
+
+(We see a spinning 3-D blockhead character)
 
 <h4> SELECT YOUR PLAYER </h4>
 
