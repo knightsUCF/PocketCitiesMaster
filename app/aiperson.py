@@ -78,7 +78,7 @@ class aiperson():
     
     def NameThePerson(self, ID):
         # self.NameRandomAIPerson = { 1 : "Bob", 2 : "Jane", 3 : "Brittney", 4 : "Alexa" }
-        # LOAD A HUGE DATABASE OF NAMES
+        # LOAD A HUGE DATABASE OF REAL NAMES
         return
     
     def GiveFreeWillToThePerson(self, ID):
