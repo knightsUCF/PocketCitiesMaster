@@ -32,7 +32,11 @@ E) Main Menu choices:
 
 New game begins with choosing your character:
 
-<h2> SELECT YOUR PlAYER </h2>
+<h4> SELECT YOUR PLAYER </h4>
+
+<h4> SELECT PLAYER NAME </h4>
+
+<h4> SELECT PLAYER STATS (rpg style) </h4>
 
 
 <h1> TODO </h1>
