@@ -17,4 +17,10 @@ Elements of unpredictability and variety:
   - Trade can be initiated in multiplayer
   - Clans and clan warfare can be taken advantage of 
   
+  - Random population flashes in "clouds of probability" based on proximity of buildings
+  - Population is also attracted to the right ratio of buildings
+  - Other reason for magnetizing higher numbers of population:
+    - lots of stores (mentioned in the tutorial) 
+    - 
+  
   
