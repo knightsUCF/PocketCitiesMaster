@@ -6,6 +6,7 @@ class aiperson():
         self.ID = ID
         return
     
+    # run initialization of person first 
     def InitializeStateOfPerson(self, ID):
         # 100 is always full level
         # easy to do percents this way 
@@ -13,6 +14,10 @@ class aiperson():
         self.Name = None
         self.Profession = None
         self.Income = None
+        
+        self.EthicalLevel = 50
+        self.Crimelevel = 0
+        
         
         self.JobSatisfaction = 50
         self.SatisfactionLevel = 100
