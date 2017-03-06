@@ -1,5 +1,7 @@
+'''
 import state
 TileState = state.state()
+'''
 
 class tile():
     
