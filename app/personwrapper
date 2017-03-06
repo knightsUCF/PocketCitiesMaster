@@ -1,0 +1,12 @@
+neatly encapsulates everything for a person 
+
+class personwrapper():
+    def __init__(self):
+        return
+        
+    def Update(self):
+        return
+        
+    def Run(self):
+        self.Update()
+        return 
