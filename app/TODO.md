@@ -17,8 +17,11 @@ D) Take the user into the Main Menu
 
 
 E) Main Menu choices: 
+
     - Start
+    
     - Settings
+    
     - Quit
 
 
