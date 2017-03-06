@@ -9,6 +9,9 @@ class aiperson():
     def TheBellCurve(self, ID):
         # useful for NATURE VERSUS NURTURE qualities of AI 
         
+        # generate random bell curve probability distribution: 
+        # https://www.av8n.com/physics/arbitrary-probability.htm
+        
         ''' 
         BELL CURVE BREAKDOWN
         
