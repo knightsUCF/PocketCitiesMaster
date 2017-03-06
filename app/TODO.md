@@ -34,9 +34,9 @@ New game begins with choosing your character:
 
 (We see a spinning 3-D blockhead character)
 
-<h4> SELECT YOUR INHABITANT </h4>
+<h4> SELECT YOUR PLAYER </h4>
 
-<h4> SELECT INHABITANT NAME </h4>
+<h4> SELECT PLAYER NAME </h4>
 
 <h4> SELECT PLAYER STATS (rpg style) </h4>
 
