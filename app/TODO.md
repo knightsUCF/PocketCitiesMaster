@@ -1,8 +1,9 @@
-1. Draw grid method in draw module
+<b>
+1. Draw grid method in draw module </b>
     - InitializeGrid in grid module
     - InitializeGrid takes care of, or leads to display grid on game start
-
-2. Allow user to build a house somewhere on this grid
+<b>
+2. Allow user to build a house somewhere on this grid </b>
     - Get user input
     - Allow user to use the "build module" from the menu 
     - Allow user to build a house or other tile anywhere on the map 
