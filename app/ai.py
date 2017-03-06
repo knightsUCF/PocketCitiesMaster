@@ -7,10 +7,14 @@ class aiperson():
         return
     
     def Name():
+        self.NameRandomAIPerson = { 1 : "Bob", 2 : "Jane", 3 : "Brittney", 4 : "Alexa" }
         return
-        
-    def GenerateNewIndividual():
+    
+    def GiveFreeWill():
         return
+
+    
+    
         
     def GenerateNewClusterOfIndividuals():
         return 
@@ -21,10 +25,7 @@ class aiperson():
     def GenerateOffspring():
         return 
         
- 
-    
-    def GiveFreeWill():
-        return
+
     
     
         
