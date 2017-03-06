@@ -5,6 +5,7 @@ class state():
 		           CityName,
 		           PlayerCharacter, 
 		           PlayerCharacters,
+		           Level,
 		           StartingCapital, 
 		           Capital,
 		           Score,
@@ -13,7 +14,12 @@ class state():
 		           Gold,
 		           Health,
 		           Map,
-		           TileInventor
+		           TileInventor,
+		           Apartments,
+		           Houses,
+		           Hotels,
+		           Buisnesses,
+		           Stores
 		    ):
 		
 		''' initialize state data '''
@@ -39,11 +45,6 @@ class state():
 		self.Buisnesses = Buisnesses
 		self.Stores = Stores
 		
-		self.InitializeState()
-		
-		return
-	
-	def InitializeState(self):
 		self.PlayerName = "Bob"
 		self.CityName = "San Francisco"
 		self.PlayerCharacter = "Entrepreneur"
@@ -56,7 +57,8 @@ class state():
 		self.Points = 0
 		self.Health = 100
 		''' self.map '''
-		''' self.TileInventory '''
+		''' self.TileInventory ''
+		return
 	
 	def BuildingsIntoTurnCapital(self):
 		
