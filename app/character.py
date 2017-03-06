@@ -8,6 +8,12 @@ class character():
         ''' initialize character state data '''
         return 
         
+    def Perk(self, ID):
+        return 
+    
+    def Penalty(self, ID):
+        return 
+    
     def Update(self):
         return 
         
