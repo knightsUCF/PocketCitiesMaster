@@ -26,6 +26,8 @@ E) Main Menu choices:
 
 
 
+<h1> TODO </h1>
+
 1. Draw grid method in draw module 
     - InitializeGrid in grid module
     - InitializeGrid takes care of, or leads to display grid on game start
