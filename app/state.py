@@ -57,10 +57,23 @@ class state():
 		self.Points = 0
 		self.Health = 100
 		''' self.map '''
-		''' self.TileInventory ''
+		''' self.TileInventory '''
 		return
 	
-	def BuildingsIntoTurnCapital(self):
+	def BuildingsIntoCapital(self):
+		return 
+		
+	def MonopoloyIntoCapital(self):
+		return 
+		
+	def BribesIntoCapital(self):
+		return
+		
+	def UpdatePopulationGrowth(self):
+		return
+		
+	def RunCivicsStats(self):
+		return
 		
 	def CalculateCapital(self):
 		
@@ -74,7 +87,7 @@ class state():
 		if (BribesRevenueCycleTurnCompleted):
 			self.BribesIntoCapital()
 		if (PopulationCycleTurnCompleted):
-			self.UpdatePopulationGrowthOrDecline()
+			self.UpdatePopulationGrowth()
 		if (CivicCycleTurnCompleted):
 			self.RunCivicsStats()
 			
