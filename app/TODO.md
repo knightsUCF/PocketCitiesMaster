@@ -12,7 +12,7 @@ C) Show Pocket Cities logo with background animations and music (psytrance!)
     - Show start game flashing on the bottom for user to select
     
     
-D) Take the user into the Main Menu 
+D) Take the user into the Main Menu (sound FX on revealing the main menu, the psytrance flows on)
 
 
 E) Main Menu choices: 
