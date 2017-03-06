@@ -8,6 +8,24 @@ class aiperson():
     
     def TheBellCurve(self, ID):
         # useful for NATURE VERSUS NURTURE qualities of AI 
+        
+        ''' 
+        BELL CURVE BREAKDOWN
+        
+        On both sides: 
+        2.15%
+        13.6%
+        34.1% (so 68.2% is the majority) 
+        
+        Multiply the bell curve cleanly into each level * 100 
+        
+        Randomize name of instance with qualities 
+        
+        
+        
+        
+        
+        '''
         return 
     
     # run initialization of person first 
