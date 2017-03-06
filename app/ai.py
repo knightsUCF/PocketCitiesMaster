@@ -1,11 +1,18 @@
-class ai():
+class aiperson():
     def __init__(self, ID):
         self.ID = id
         
-    def GenerateNewAIIndividual():
+    def GenerateNewIndividual(self, ID):
+        self.ID = ID
+        return
+    
+    def Name():
         return
         
-    def GenerateNewAICluster():
+    def GenerateNewIndividual():
+        return
+        
+    def GenerateNewClusterOfIndividuals():
         return 
         
     def AnalyzeProbabilityCloud():
@@ -14,4 +21,10 @@ class ai():
     def GenerateOffspring():
         return 
         
+ 
+    
+    def GiveFreeWill():
+        return
+    
+    
         
