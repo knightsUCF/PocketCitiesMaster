@@ -12,24 +12,28 @@ class aiperson():
         # easy to do percents this way 
         
         self.Name = None
+        self.Age = None # each character ages with game turn 
+        
         self.Profession = None
         self.Income = None
         
         self.EthicalLevel = 50
         self.Crimelevel = 0
-        
+        self.DangerousLevel = 0 
         
         self.JobSatisfaction = 50
-        self.SatisfactionLevel = 100
         
         self.HealthLevel = 100 # outside of proximity of cities health meters goes up 
         self.FitnessLevel = 50
         self.Romance = 50
         self.Love = 50
         
+        self.SatisfactionLevel = 50
+        self.InfluenceLevel = 0
+        
     
     def NamePerson(self, ID):
-        self.NameRandomAIPerson = { 1 : "Bob", 2 : "Jane", 3 : "Brittney", 4 : "Alexa" }
+        # self.NameRandomAIPerson = { 1 : "Bob", 2 : "Jane", 3 : "Brittney", 4 : "Alexa" }
         return
     
     def GiveFreeWillToPerson(self, ID):
@@ -41,9 +45,13 @@ class aiperson():
     def GenerateStatsOnPerson(self, ID):
         return
     
-    
+    def AgeThePerson(self, ID):
+        return
+16
         
-    def UpdateStatsOfPerson(self, ID):
+    
+    def UpdateStateOfPerson(self, ID):
+        # this one also updates the age of the person
         return
 
     
