@@ -1,6 +1,7 @@
 class gamecycle():
-    def __init__(self):
+    def __init__(self, Status):
         ''' initialize game cycle '''
+        self.Status = Status
         return 
         
     def Update(self):
