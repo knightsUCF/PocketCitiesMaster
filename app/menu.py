@@ -20,7 +20,19 @@ class menu():
         
         return 
     
+    ''' MAIN CHOICES '''
     
+    def OnPressStart(self):
+        return
+    
+    def OnPressLoad(self):
+        return
+    
+    def OnPressSettings(self):
+        return
+    
+    def OnPressExit(self):
+        return
     
     def OnStartingCharacterSelection(self):
         return
