@@ -11,6 +11,8 @@ class viewcoolprobabilitycloud():
     def Run(self):
         return
         
+    def DoTheBoringProbabilityCloudMath(self, data):
+        return
 
     def OnViewAIPopulationProbabilityCloud(self):
         return
