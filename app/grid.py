@@ -13,5 +13,12 @@ class grid():
         
     def StartDrawingColumn(self):
         return 
+    
+    def EndDrawingRow(self):
+        return 
+    
+    def EndDrawingColumn(self):
+        return 
+    
         
       
