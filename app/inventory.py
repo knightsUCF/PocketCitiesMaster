@@ -1,5 +1,6 @@
 class inventory():
-    def __init__(self, StartingInventory, WeaponInventory, GadgetInventory):
+    def __init__(self, ItemID, StartingInventory, WeaponInventory, GadgetInventory):
+        self.ItemID = ItemID
         self.StartingInventory = StartingInventory
         self.WeaponInventory = WeaponInventory
         self.GadgetInventory = GadgetInventory
