@@ -41,14 +41,33 @@ class aiperson():
         # NATURE VERSUS NURTURE 
         # follow the bell curve 
         
-        self.CoolnessLevel # initialize to random number between 1 and 100, follow TheBellCurve() distribution 
-        self.Intelligence # initialize to random number between 1 and 100, follow TheBellCurve()
-        self.Testosterone # same, too much leads to crime 
-        self.Estrogen # same, too much leads to inactivity 
-        self.Charisma # same, will influence love and relationships 
-        self.Influence # same
-        self.TechnologicalSavvy # same
+        # NATURE
         
+        self.NatureCoolnessLevel # initialize to random number between 1 and 100, follow TheBellCurve() distribution 
+        self.NatureIntelligence # initialize to random number between 1 and 100, follow TheBellCurve()
+        self.NatureFitnessLevel # leads to better paid professions
+        self.Testosterone # same, too much leads to crime, high enough threshold is good though
+        self.Estrogen # same, too much leads to inactivity 
+        self.Charisma # same, will influence love and relationships, leads to more well paid professions
+        self.Influence # same, leads to A LOT more well paid professions, this one is top influencer
+        
+        
+        # NURTURE
+        
+        self.NurtureIntelligenceLevel
+        self.NurtureCoolnessLevel
+        self.NurtureFitnessLevel
+        self.TechnologicalSavvy # influenced by intelligence level, leads to more well paid professions
+        
+        # NATURE AND NURTURE :) 
+        
+        self.NatureAndNurtureCurrentStateOfIntelligenceLevel
+        self.NatureAndNurtureCurrentStateOfCoolnessLevel
+        self.NatureAndNurtureCurrentStateOfFitness
+        self.
+        
+        # Since you have nature qualities, you can steer your young AI person to make their Nurture qualities exponential
+        # Make this game available on Apple Watch 
         
         
         # a cool thing would be to let the user pick out the ones with the higher bell curve numbers
@@ -90,8 +109,14 @@ class aiperson():
     
     def GenerateOffspring():
         return 
-        
+    
+###############################################
 
+    def ShowRealTimeLogStatsOfPerson(self):
+        return
     
-    
+###############################################
+
+
+
         
