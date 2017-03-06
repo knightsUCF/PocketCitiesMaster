@@ -1,0 +1,6 @@
+class 3dspace():
+    def __init__(self):
+        return
+    
+    def Run(self):
+        return
