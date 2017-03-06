@@ -1,5 +1,5 @@
 
-GAME INTRO
+<h1> GAME INTRO </h1>
 
 Game Intro Screen
 
