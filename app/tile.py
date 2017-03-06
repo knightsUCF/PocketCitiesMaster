@@ -5,6 +5,9 @@ TileState = state.state()
 
 class tile():
 
+    def CreateTileDatabase(self):
+        return 
+    
     def UpdateTileMap():
         TileState.GetTileTypeAndPosition()
         return 
