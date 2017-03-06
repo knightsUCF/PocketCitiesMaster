@@ -2,7 +2,7 @@
 <p>
 1. Draw grid method in draw module <p>
 
-- InitializeGrid in grid module <p>
+<h5> InitializeGrid in grid module </h5> <p>
 
 
 2. Display grid on game start <p>
