@@ -33,13 +33,15 @@ class grid():
     def TurnOffGrid(self):
         return self.HideGrid = true
     
-    
-    
-    
     def CreateAGrid(self, width, height):
         # width and height are in boxes
         self.DrawGrid(width, height)
         return 
+    
+    
+    def Run(self, width, height):
+        self.CreateAGrid(width, height)
+        
     
     
         
