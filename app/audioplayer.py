@@ -6,5 +6,5 @@ class audioplayer():
         return 
     
     def Run(self):
-        self.UpdateCurrentlyPlayingSong
+        self.UpdateCurrentlyPlayingSong()
         
