@@ -16,6 +16,18 @@ class menu():
         return 
         
     def OnMenuSelection(self):
+        return
+    
+    def OnNewGame(self):
+        return 
+    
+    def OnStartGame(self):
+        return 
+    
+    def OnSaveGame(self):
+        return
+    
+    def OnExit(self):
         return 
     
     def Update(self):
