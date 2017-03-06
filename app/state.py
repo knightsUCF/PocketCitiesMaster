@@ -1,5 +1,8 @@
 ''' state.py '''
 
+import tilemgr
+TileManager = tilemgr.tilemgr()
+
 class state():
 	def __init__(self, PlayerName,
 		           CityName,
@@ -97,6 +100,7 @@ class state():
 			self.UpdatePopulationGrowth()
 		if (CivicCycleTurnCompleted):
 			self.RunCivicsStats()
+		''' TileManager.Run(UpdateThisState) '''
 			
         def GetTileTypeAndPosition(self):
 		return 
