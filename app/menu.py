@@ -37,6 +37,18 @@ class menu():
     
     ''' END OF MAIN MENU CHOICES '''
     
+    ''' ALSO PAUSE GAME MENU CHOICES '''
+    
+    def OnPressPauseGame(self):
+        return
+    
+    def OnPressSaveGame(self):
+        return
+    
+    def OnPressExitAfterPressPauseGame(self):
+        return
+    
+    ''' END OF PAUSE GAME MENU CHOICES '''
     
     
     def OnStartingCharacterSelection(self):
