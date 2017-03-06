@@ -1,8 +1,17 @@
 <h1> Pocket Cities </h1>
 
-<h2> MISSION STATEMENT </h2>
+<h3> MISSION STATEMENT </h3>
 
 Give players the ability to create and play a Tomagotchi-esque "pocket" city. 
+
+Features:
+
+  - 3D rotating playing space
+  - Box graphics, no texture 
+  - Out of many small boxes we can build intricate buildings
+  - Walking minature boxy people (can zoom in)
+  - Animations of box people interacting
+  
 
 <h4> Unpredictability </h4>
 
