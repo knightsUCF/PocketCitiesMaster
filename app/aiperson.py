@@ -63,8 +63,10 @@ class aiperson():
         
         self.NatureAndNurtureCurrentStateOfIntelligenceLevel
         self.NatureAndNurtureCurrentStateOfCoolnessLevel
-        self.NatureAndNurtureCurrentStateOfFitness
-        self.
+        self.NatureAndNurtureCurrentStateOfFitnessLevel
+        self.NatureAndNurtureCurrentStateOfSatisfactionLevel
+        self.NatureAndNurtureCurrentStateOfCharismaLevel
+        self.NatureAndNurtureCurrentStateOfInfluenceLevel
         
         # Since you have nature qualities, you can steer your young AI person to make their Nurture qualities exponential
         # Make this game available on Apple Watch 
