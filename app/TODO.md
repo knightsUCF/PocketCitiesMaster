@@ -28,6 +28,12 @@ E) Main Menu choices:
     - EXIT
 
 
+<h3> NEW GAME </h3>
+
+New game begins with choosing your character:
+
+<h2> SELECT YOUR PlAYER </h2>
+
 
 <h1> TODO </h1>
 
