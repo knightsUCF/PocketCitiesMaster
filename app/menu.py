@@ -14,6 +14,9 @@ class menu():
         self.CurrentSelection = CurrentSelection
         
         return 
+    
+    def OnStartingCharacterSelection(self):
+        return
         
     def OnMenuSelection(self):
         return
