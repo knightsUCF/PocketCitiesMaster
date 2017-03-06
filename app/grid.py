@@ -16,7 +16,7 @@ class grid():
         return 
     
     def DrawAGrid(self, width, height):
-        DrawGrid.FromDrawModuleDrawGrid(widgth, height)
+        DrawGrid.FromDrawModuleDrawGrid(width, height)
         
     def StartDrawingRow(self):
         return
