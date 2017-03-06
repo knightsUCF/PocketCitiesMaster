@@ -5,6 +5,7 @@ class chat():
     # run this first and once outside of the game loop
     def InitializeChat(self):
         return 
+    
     # run this inside of the game loop
     def UpdateChat(self):
         return
