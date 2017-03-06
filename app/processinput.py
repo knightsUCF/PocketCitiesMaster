@@ -3,7 +3,7 @@
 import button
 Button = button.button()
 
-class input():
+class processinput():
 
 	def GetInput(self):
 		return
