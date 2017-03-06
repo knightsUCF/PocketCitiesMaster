@@ -12,6 +12,11 @@ class award():
         self.Mythical
         self.Transcedent 
         
+        self.Gangster 
+        
+        self.Visionary
+        
+        
         
         
     def GiveAward(self):
