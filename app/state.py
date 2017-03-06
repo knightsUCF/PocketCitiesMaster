@@ -97,6 +97,9 @@ class state():
 			self.UpdatePopulationGrowth()
 		if (CivicCycleTurnCompleted):
 			self.RunCivicsStats()
+			
+        def GetTileTypeAndPosition(self):
+		return 
 	
 	def Run(self):
 		''' update the state '''
