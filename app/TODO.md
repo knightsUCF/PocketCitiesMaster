@@ -20,6 +20,8 @@ E) Main Menu choices:
 
     - Start
     
+    - Load
+    
     - Settings
     
     - Quit
