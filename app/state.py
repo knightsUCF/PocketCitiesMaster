@@ -32,6 +32,13 @@ class state():
 		self.Map = Map
 		self.TileInventory = TileInventory
 		
+		self.Apartments = Apartments
+		self.Houses = Houses
+		self.Hotels = Hotels
+		self.Motels = Motels
+		self.Buisnesses = Buisnesses
+		self.Stores = Stores
+		
 		self.InitializeState()
 		
 		return
@@ -51,7 +58,25 @@ class state():
 		''' self.map '''
 		''' self.TileInventory '''
 	
+	def BuildingsIntoTurnCapital(self):
+		
+	def CalculateCapital(self):
+		
+		return self.Capital
+	
 	def UpdateState(self):
+		if (BuildingsRevenueCycleTurnCompleted):
+			self.BuildingsIntoCapital()
+		if (MonopolyRevenueCycleTurnCompleted):
+			self.MonopoloyIntoCapital()
+		if (BribesRevenueCycleTurnCompleted):
+			self.BribesIntoCapital()
+		if (PopulationCycleTurnCompleted):
+			self.UpdatePopulationGrowthOrDecline()
+		if (CivicCycleTurnCompleted):
+			self.RunCivicsStats()
+			
+		
 		return
 	
 	def Run(self):
