@@ -27,7 +27,7 @@ class aiperson():
         
         self.JobSatisfaction = 50
         
-        self.CoolnessLevel = 50
+        
         
         self.HealthLevel = 100 # outside of proximity of cities health meters goes up 
         self.FitnessLevel = 50
@@ -35,14 +35,27 @@ class aiperson():
         self.Love = 50
         
         self.SatisfactionLevel = 50
+        self.PublicOpinionLevel = 0
         self.InfluenceLevel = 0
         
         # NATURE VERSUS NURTURE 
         # follow the bell curve 
         
-        self.Intelligence # initialize to random number between 1 and 100, follow bell curve 
-        self.
+        self.CoolnessLevel # initialize to random number between 1 and 100, follow TheBellCurve() distribution 
+        self.Intelligence # initialize to random number between 1 and 100, follow TheBellCurve()
+        self.Testosterone # same, too much leads to crime 
+        self.Estrogen # same, too much leads to inactivity 
+        self.Charisma # same, will influence love and relationships 
+        self.Influence # same
+        self.TechnologicalSavvy # same
         
+        
+        
+        # a cool thing would be to let the user pick out the ones with the higher bell curve numbers
+        # and steer them toward intermingling (through restaurants, areas to meet up) 
+        
+        # allow the user to save their characters for keepsake like Tomagotchi 
+        # allow the user to trade characters with each other through multiplayer
     
     def NameThePerson(self, ID):
         # self.NameRandomAIPerson = { 1 : "Bob", 2 : "Jane", 3 : "Brittney", 4 : "Alexa" }
