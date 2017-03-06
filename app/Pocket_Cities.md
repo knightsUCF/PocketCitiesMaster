@@ -37,7 +37,16 @@ Among that group of 100:
   - ... educated (keep algorithm secret) 
   - ... wealthy
   - ... crime meter
-  - ... 
+  - ... conversion rate (random population is willing to convert to behavior based on surrounding population)
+  - ... create random system
+  - ... probability cloud
+  - ... job
+  - ... jobless
+
+<h2> A random but ordered system </h2>
+
+  - ... indicate how each affects one another for a random ordered system
+  
   - be able to analyze these in the log, mission control log
   - create class missioncontrol.py 
   - 
