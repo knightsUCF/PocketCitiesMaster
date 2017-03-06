@@ -22,6 +22,8 @@ E) Main Menu choices:
     
     - Load
     
+    - Tutorial
+    
     - Settings
     
     - Exit
