@@ -17,7 +17,7 @@
 
 6. Update stats / and state based on the house being finished building <p>
 
-
+7. InitializeGrid in grid module <p>
     
 
 
