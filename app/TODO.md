@@ -1,4 +1,22 @@
 
+GAME INTRO
+
+Game Intro Screen
+
+A) Show "A production of..." 
+B) Game Company Logo - Quest Studios 
+C) Show Pocket Cities logo with background animations and music
+    - Show start game flashing on the bottom for user to select
+    
+    
+D) Take the user into the Main Menu 
+E) Main Menu choices: 
+    - Start
+    - Settings
+    - Quit
+
+
+
 1. Draw grid method in draw module 
     - InitializeGrid in grid module
     - InitializeGrid takes care of, or leads to display grid on game start
