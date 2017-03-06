@@ -1,3 +1,6 @@
+import draw
+DrawGrid = draw.draw()
+
 class grid():
     def __init__(self, StartingGridSize, VerticalNumberOfLines, HorizontalNumberOfLines, HideGrid):
         self.StartingGridSize = StartingGridSize
@@ -12,8 +15,8 @@ class grid():
     def DrawHorizontalLine(self):
         return 
     
-    def DrawGrid(self):
-        return
+    def DrawAGrid(self, width, height):
+        DrawGrid.FromDrawModuleDrawGrid(widgth, height)
         
     def StartDrawingRow(self):
         return
@@ -29,5 +32,15 @@ class grid():
     
     def TurnOffGrid(self):
         return self.HideGrid = true
+    
+    
+    
+    
+    def CreateAGrid(self, width, height):
+        # width and height are in boxes
+        self.DrawGrid(width, height)
+        return 
+    
+    
         
       
