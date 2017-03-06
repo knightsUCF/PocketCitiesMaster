@@ -30,6 +30,9 @@ E) Main Menu choices:
 
 <h1> TODO </h1>
 
+<h3> THE GOAL IS TO FIGURE OUT THE BEST ENCAPSULATION OF DESIGN </h3>
+
+
 1. Draw grid method in draw module 
     - InitializeGrid in grid module
     - InitializeGrid takes care of, or leads to display grid on game start
