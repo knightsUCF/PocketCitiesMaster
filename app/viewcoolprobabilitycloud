@@ -1,3 +1,6 @@
+# a sort of log function
+# use the sine wave functions from TheBellCurve() in aiperson.py
+
 class viewcoolprobabilitycloud():
     def __init__(self):
         return
@@ -6,4 +9,17 @@ class viewcoolprobabilitycloud():
         return 
         
     def Run(self):
+        return
+        
+
+    def OnViewAIPopulationProbabilityCloud(self):
+        return
+  
+    def OnViewAIPersonCloud(self):
+        return
+        
+    def OnViewCityStatsCloud(self):
+        return
+        
+    def OnViewAnyMetric(self, metricdata):
         return
