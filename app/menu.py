@@ -34,6 +34,9 @@ class menu():
     def OnPressExit(self):
         return
     
+    
+    ''' END OF MAIN MENU CHOICES '''
+    
     def OnStartingCharacterSelection(self):
         return
         
