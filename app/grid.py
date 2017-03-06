@@ -1,8 +1,9 @@
 class grid():
-    def __init__(self, StartingGridSize, VerticalNumberOfLines, HorizontalNumberOfLines):
+    def __init__(self, StartingGridSize, VerticalNumberOfLines, HorizontalNumberOfLines, HideGrid):
         self.StartingGridSize = StartingGridSize
         self.VerticalNumberOfLines = VerticalNumberOfLines
         self.HorizontalNumberOfLines = HorizontalNumberOfLines
+        self.HideGrid = HideGrid
         return
     
     def DrawVerticalLine(self):
@@ -26,5 +27,7 @@ class grid():
     def EndDrawingColumn(self):
         return 
     
+    def TurnOffGrid(self):
+        return self.HideGrid = true
         
       
