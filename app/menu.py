@@ -23,10 +23,13 @@ class menu():
     
     ''' MAIN CHOICES '''
     
-    def OnPressStart(self):
+    def OnPressPlay(self):
         return
     
     def OnPressLoad(self):
+        return
+    
+    def OnPressTutorial(self):
         return
     
     def OnPressSettings(self):
