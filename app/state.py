@@ -61,9 +61,15 @@ class state():
 		return
 	
 	def BuildingsIntoCapital(self):
-		return 
+		''' A thousand dollars per building per turn ''' 
+		self.Capital = self.Buildings * 1000 
 		
 	def MonopoloyIntoCapital(self):
+		''' check for proximity '''
+		return
+	
+	def CompetitionIntoCapital(self):
+		''' check for competition proximity and subtract capital '''
 		return 
 		
 	def BribesIntoCapital(self):
@@ -76,23 +82,21 @@ class state():
 		return
 		
 	def CalculateCapital(self):
-		
-		return self.Capital
+		return
 	
 	def UpdateState(self):
 		if (BuildingsRevenueCycleTurnCompleted):
 			self.BuildingsIntoCapital()
 		if (MonopolyRevenueCycleTurnCompleted):
 			self.MonopoloyIntoCapital()
+		if (CompetitionRevenueCycleTurnCompleted):
+			self.CompetitionIntoCapital()
 		if (BribesRevenueCycleTurnCompleted):
 			self.BribesIntoCapital()
 		if (PopulationCycleTurnCompleted):
 			self.UpdatePopulationGrowth()
 		if (CivicCycleTurnCompleted):
 			self.RunCivicsStats()
-			
-		
-		return
 	
 	def Run(self):
 		''' update the state '''
