@@ -18,15 +18,15 @@ D) Take the user into the Main Menu
 
 E) Main Menu choices: 
 
-    - Play
+    - NEW GAME
     
-    - Load
+    - LOAD GAME
     
-    - Tutorial
+    - TUTORIAL
     
-    - Settings
+    - SETTINGS
     
-    - Exit
+    - EXIT
 
 
 
