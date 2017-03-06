@@ -7,6 +7,7 @@ class chat():
         return 
     
     # run this inside of the game loop
+    # example: ChatInstance.Run()
     def UpdateChat(self):
         return
         
