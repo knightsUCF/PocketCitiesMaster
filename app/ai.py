@@ -9,6 +9,9 @@ class ai():
         return 
         
     def AnalyzeProbabilityCloud():
+        return
+    
+    def GenerateOffspring():
         return 
         
         
