@@ -4,6 +4,9 @@ class input():
 
 	def GetInput(self):
 		return
+	
+	def Run(self):
+		self.GetInput()
 		
 		
 	''' GOAL: Get user input and let them select a tile on the screen 
