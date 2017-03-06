@@ -20,7 +20,26 @@ Elements of unpredictability and variety:
   - Random population flashes in "clouds of probability" based on proximity of buildings
   - Population is also attracted to the right ratio of buildings
   - Other reason for magnetizing higher numbers of population:
-    - lots of stores (mentioned in the tutorial) 
-    - 
+  - ... lots of stores (mentioned in the tutorial) 
+  - ... crime free area
+  - ... education
+  - ... interactions AI
+
+<H2> RANDOM POPULATION AI </H2>
+
+Population in groups of 100
+
+
+Among that group of 100: 
+  - Percentage that is a certain way, "X", displays certain behaviors
+  - class populationpercentagebehavior module 
+  - x percent is going to display behavior qualities: 
+  - ... educated (keep algorithm secret) 
+  - ... wealthy
+  - ... crime meter
+  - ... 
+  - be able to analyze these in the log, mission control log
+  - create class missioncontrol.py 
+  - 
   
   
