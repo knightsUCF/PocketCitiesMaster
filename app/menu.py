@@ -9,6 +9,6 @@ class menu():
         return 
         
     def Run(self):
-        self.Update
+        self.Update()
         
         
