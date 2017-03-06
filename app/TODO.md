@@ -6,10 +6,9 @@ Game Intro Screen
 A) Show "A production of..." 
 
 
-B) Game Company Logo - Quest Studios 
+B) Game Company Logo - Quest Studios (sound FX)
 
-
-C) Show Pocket Cities logo with background animations and music
+C) Show Pocket Cities logo with background animations and music (psytrance!)
     - Show start game flashing on the bottom for user to select
     
     
