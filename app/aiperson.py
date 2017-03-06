@@ -2,12 +2,16 @@ class aiperson():
     def __init__(self, ID):
         self.ID = id
         
-    def GenerateNewPerson(self, ID):
+    def GenerateANewPerson(self, ID):
         self.ID = ID
         return
     
+    def TheBellCurve(self, ID):
+        # useful for NATURE VERSUS NURTURE qualities of AI 
+        return 
+    
     # run initialization of person first 
-    def InitializeStateOfPerson(self, ID):
+    def InitializeTheStateOfThePerson(self, ID):
         # 100 is always full level
         # easy to do percents this way 
         
@@ -23,6 +27,8 @@ class aiperson():
         
         self.JobSatisfaction = 50
         
+        self.CoolnessLevel = 50
+        
         self.HealthLevel = 100 # outside of proximity of cities health meters goes up 
         self.FitnessLevel = 50
         self.Romance = 50
@@ -31,24 +37,30 @@ class aiperson():
         self.SatisfactionLevel = 50
         self.InfluenceLevel = 0
         
+        # NATURE VERSUS NURTURE 
+        # follow the bell curve 
+        
+        self.Intelligence # initialize to random number between 1 and 100, follow bell curve 
+        self.
+        
     
-    def NamePerson(self, ID):
+    def NameThePerson(self, ID):
         # self.NameRandomAIPerson = { 1 : "Bob", 2 : "Jane", 3 : "Brittney", 4 : "Alexa" }
         return
     
-    def GiveFreeWillToPerson(self, ID):
+    def GiveFreeWillToThePerson(self, ID):
         return
     
-    def GiveProfessionToPerson(self, ID):
+    def GiveAProfessionToThePerson(self, ID):
         return
     
-    def GenerateStatsOnPerson(self, ID):
+    def GenerateStatsOnThePerson(self, ID):
         return
     
     def AgeThePerson(self, ID):
         return
-16
         
+    
     
     def UpdateStateOfPerson(self, ID):
         # this one also updates the age of the person
