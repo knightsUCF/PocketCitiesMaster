@@ -5,15 +5,16 @@ class tilemgr():
 
     def __init__(self):
         ''' initial state of tile manager '''
-        return 
-        
-    def Arrange(self):
-        return 
-        
+        return
+    
     def Update(self):
         return 
         
-    def Run(self):
+    def Arrange(self):
         self.Update()
+        return
+    
+    def Run(self):
+        self.Arrange()
         
         
