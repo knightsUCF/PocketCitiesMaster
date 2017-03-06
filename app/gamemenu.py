@@ -19,22 +19,32 @@ class gamemenu():
         
         
         
-    def OnCreateNewCharacter(self):
+    def OnCreateNewCharacter(self, ID):
+        self.ID = ID 
         return
         
-    def OnNameNewCharacter(self):
+    def OnNameNewCharacter(self, ID):
+        self.ID = ID
         return
         
-    def OnEquipCharacter(self):
+    def OnEquipCharacter(self, ID):
+        self.ID = ID 
         return
         
-    def OnAssignProfessionToCharacter(self):
+    def OnAssignProfessionToCharacter(self, ID):
+        self.ID = ID
+        return
+    
+    def OnDefineWorkingHoursForCharacter(self, ID):
+        self.ID = ID 
         return
         
-    def OnKillCharacter(self):
+    def OnKillCharacter(self, ID):
+        self.ID = ID
         return 
         
-    def OnBribeCharacter(self):
+    def OnBribeCharacter(self, ID):
+        self.ID = ID 
         return 
         
         
