@@ -10,3 +10,6 @@ class window():
 		self.screen = pygame.display.set_mode((width, height))
 		pygame.display.set_caption('Pocket Cities')
 		pygame.display.flip
+		
+	def UpdateWindow(self):
+		return 
