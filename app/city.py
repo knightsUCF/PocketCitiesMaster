@@ -8,9 +8,10 @@ class city():
         self.Pollution = Pollution
         self.Attractiveness = Attractiveness
         
-   def Update(self):
-       return
-       
-   def Generate(self):
-       return 
+    def Update(self):
+        return
+    
+    def Generate(self, self.Name):
+        self.Population = 0
+        return 
        
