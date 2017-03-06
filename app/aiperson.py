@@ -22,6 +22,9 @@ class aiperson():
         Randomize name of instance with qualities 
         
         
+        Randomize each individual bell curve to such a point that total bell curve has to be even in game 
+        
+        
         
         
         
