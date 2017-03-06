@@ -11,6 +11,7 @@ class tilemgr():
         return 
         
     def Arrange(self):
+        ''' figure out update to tile map state '''
         self.Update()
     
     def Run(self):
