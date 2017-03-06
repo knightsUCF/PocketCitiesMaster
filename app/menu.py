@@ -1,12 +1,12 @@
 
 
 class menu():
-    def __init__(self, GameType, NewGame, StartGame, SaveGame, Exit, CurrentSelection):
+    def __init__(self, NewGame, GameType, StartGame, SaveGame, Exit, CurrentSelection):
         ''' Beginning menu state '''
         
+        self.NewGame = NewGame
         self.GameType = GameType
         
-        self.NewGame = NewGame
         self.StartGame = StartGame
         self.SaveGame= SaveGame
         self.Exit = Exit
