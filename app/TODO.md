@@ -2,6 +2,8 @@
 <p>
 1. Draw grid method in draw module <p>
 
+- InitializeGrid in grid module <p>
+
 
 2. Display grid on game start <p>
 
@@ -17,7 +19,7 @@
 
 6. Update stats / and state based on the house being finished building <p>
 
-7. InitializeGrid in grid module <p>
+
     
 
 
