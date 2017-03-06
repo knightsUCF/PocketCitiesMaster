@@ -1,8 +1,12 @@
+1. Draw grid method in draw module
+    - InitializeGrid in grid module
+
+
 <h4> 
 <p>
 1. Draw grid method in draw module <p>
 
-<h5> InitializeGrid in grid module </h5> <p>
+- InitializeGrid in grid module <p>
 
 
 2. Display grid on game start <p>
