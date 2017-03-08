@@ -66,7 +66,7 @@ Among that group of 100:
   
   Let player generate extra people up until their mana meter runs out. This gives the player an enjoyable repeatable action. In multiplayer face to face, players can have lots of fun generating people at a faster pace. 
   
-  When people destroyed, instead of blood you see rainbow marked spray paint. 
+  When people are destroyed by other players, instead of blood you see rainbow marked spray paint. 
   
   
   
