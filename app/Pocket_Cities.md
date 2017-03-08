@@ -68,6 +68,8 @@ Among that group of 100:
   
   When people are destroyed by other players, instead of blood you see rainbow marked spray paint. 
   
+  You can load your own songs in and share with friends. Can people individually share songs? 
+  
   
   
   
