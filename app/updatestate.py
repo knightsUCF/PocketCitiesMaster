@@ -2,7 +2,7 @@
 # Here we are going to import state, where we actually keep all the data
 
 import state
-ObjectState = state.state()
+WhatIsState = state.state()
 
 # to get values we are going to get them through methods 
  
