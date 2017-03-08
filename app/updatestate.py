@@ -20,3 +20,18 @@ class updatestate():
         UpdateAllStates()
         
        
+       
+# to get values we are going to get them through methods
+# Here are all the methods to access player metrics
+# The methods below live in state
+
+'''
+
+def GetInitialGold(self):
+    return self.InitialGold
+def GetInitialScore(self):
+		  return self.InitialScore
+def GetCurrentGold(self):
+		  return
+
+'''
