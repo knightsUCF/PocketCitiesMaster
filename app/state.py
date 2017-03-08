@@ -109,3 +109,16 @@ class state():
 		''' update the state '''
 		self.UpdateState()
 		return
+	
+	
+	
+	
+	 # Here are all the methods to access player metrics
+		
+        def GetInitialGold(self):
+		return self.InitialGold
+	def GetInitialScore(self):
+		return self.InitialScore
+	def GetCurrentGold(self):
+		return
+	
