@@ -1,4 +1,6 @@
 ''' engine.py '''
+import updatestate
+UpdateState.Run()
 
 import log
 io = log.log()
@@ -15,10 +17,11 @@ class engine():
 			''' time stamp '''
 			GameRender.Run()
 			GameInput.Run()
-			GameState.Run()
+			# GameState.Run()
+			UpdateState.Run()
 			GameSync.Run()
 
-		    for event in pygame.event.get():
+		for event in pygame.event.get():
 		    	self.QuitGameRoutine()
 		    	running = False
 		    	pygame.quit()
