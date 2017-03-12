@@ -11,6 +11,9 @@ B) Game Company Logo - Quest Studios (sound FX)
 C) Show Pocket Cities logo with background animations and music (psytrance!)
     - Show start game flashing on the bottom for user to select
     
+    Use this font: https://graphicriver.net/item/cube-font/17617824?s_rank=104
+    Pocket stacked on top of cities, both flashing different colors. 
+    
     
 D) Take the user into the Main Menu (sound FX on revealing the main menu, the psytrance flows on)
 
